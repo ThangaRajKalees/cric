@@ -1,0 +1,5 @@
+{
+  "name": "CricketPredict",
+  "description": "A small web application for predicting cricket match outcomes and joining contests. It features match listings, contest details, a user wallet, and an admin panel for managing matches.",
+  "requestFramePermissions": []
+}
